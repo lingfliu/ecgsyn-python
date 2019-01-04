@@ -2,22 +2,21 @@
 
 A python implementation of ecgsyn from physionet
 
-Original reference: 
+## Original reference: 
 
 [ECGSYN: A realistic ECG waveform generator](https://www.physionet.org/physiotools/ecgsyn/)
 
-Code implemented in Python 3.6
-
-Dependencies:
+## Implemented with:
+- python: 3.6
 - numpy: 1.15
 - scipy: 1.10
 
-Modifications: 
+## Modifications: 
 
 - replaced ide45 with ideint
 - converted indice from matlab format (starting from 1) to python form (starting from 0)
 
-Usage: 
+## Usage: 
 
 To generate by default parameters, simply run:
 
