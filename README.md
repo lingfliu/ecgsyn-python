@@ -1,10 +1,10 @@
-#ecgsyn-python
+# ecgsyn-python
 
 A python implementation of ecgsyn from physionet
 
 Original reference: 
 
-ECGSYN: A realistic ECG waveform generator[https://www.physionet.org/physiotools/ecgsyn/]
+[ECGSYN: A realistic ECG waveform generator](https://www.physionet.org/physiotools/ecgsyn/)
 
 Code implemented in Python 3.6
 
