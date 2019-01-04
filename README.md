@@ -1,4 +1,4 @@
-# ecgsyn-python
+# ecgsyn-python [![](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://github.com/lingfliu/ecgsyn-python)
 
 A python implementation of ecgsyn from physionet
 
